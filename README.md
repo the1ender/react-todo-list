@@ -1,7 +1,6 @@
-### Simple Todo List coded with React, JSX, JavaScript, CSS, and HTML 
-using VSCode, node, Windows PowerShell
+### Simple Todo List coded with React, JSX, JavaScript, CSS, and HTML using VSCode, node, Windows PowerShell.
 
-made using create-react-app 
+And made using create-react-app 
 https://create-react-app.dev/
 
 Thanks to Simo Edwin developedbyed
